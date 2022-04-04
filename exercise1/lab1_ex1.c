@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "lbyec2a.h"
+#include "../lbyec2a.h"
 
 int get_choice(void)
 {
