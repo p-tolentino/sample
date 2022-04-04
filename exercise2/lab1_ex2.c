@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
-#include "lbyec2a.h"
+#include "../lbyec2a.h"
 
 char encrypt_uppercase_letter(char letter)
 {
